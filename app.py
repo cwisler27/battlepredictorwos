@@ -4,9 +4,9 @@ import math
 # 1. CONSTANTS & WEIGHTS (Extracted from your 'Model' sheet)
 # If you run the Solver in Excel and weights change, update these values.
 WEIGHTS = {
-    'wInf_Atk': 0.0853, 'wInf_Def': 0.1150, 'wInf_Let': 0.0664, 'wInf_HP': 0.1333,
-    'wLan_Atk': 0.0643, 'wLan_Def': 0.0823, 'wLan_Let': 0.0608, 'wLan_HP': 0.0475,
-    'wMar_Atk': 0.0807, 'wMar_Def': 0.0735, 'wMar_Let': 0.1130, 'wMar_HP': 0.0780,
+    'wInf_Atk': 0.0984, 'wInf_Def': 0.1184, 'wInf_Let': 0.0593, 'wInf_HP': 0.1597,
+    'wLan_Atk': 0.0541, 'wLan_Def': 0.0607, 'wLan_Let': 0.0257, 'wLan_HP': 0.0452,
+    'wMar_Atk': 0.0858, 'wMar_Def': 0.0714, 'wMar_Let': 0.1303, 'wMar_HP': 0.0903,
     'k': 10.0,
     'b': 0.0
 }
